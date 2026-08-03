@@ -2,9 +2,7 @@
   "killSwitch": false,
   "message": "تم إيقاف البوت مؤقتاً — تواصل @JAGUAR_SYR",
   "minVersion": "5.9",
-  "revokedBuilds": [
-    "JAG-B-0001"
-  ],
+  "revokedBuilds": [],
   "buildMessage": "هذه النسخة موقوفة — للحصول على نسخة أصلية @JAGUAR_SYR",
   "allowedBuilds": [],
   "revoked": [],
